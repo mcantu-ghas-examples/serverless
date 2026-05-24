@@ -69,11 +69,11 @@
     "signal-exit": "^3.0.7",
     "strip-ansi": "^6.0.1",
     "supports-color": "^8.1.1",
-    "tar": "^6.1.11",
+    "tar": "^7.5.15",
     "timers-ext": "^0.1.7",
     "type": "^2.6.0",
     "untildify": "^4.0.0",
-    "uuid": "^8.3.2",
+    "uuid": "^14.0.0",
     "yaml-ast-parser": "0.0.43"
   },
   "devDependencies": {
@@ -106,7 +106,7 @@
     "sinon-chai": "^3.7.0",
     "standard-version": "^9.5.0",
     "ws": "^7.5.8",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.6.2"
   },
   "eslintConfig": {
     "extends": "@serverless/eslint-config/node",
